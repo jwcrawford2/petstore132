@@ -50,6 +50,7 @@ import com.sun.j2ee.blueprints.xmldocuments.XMLDocumentUtils;
 import com.sun.j2ee.blueprints.xmldocuments.XMLDocumentException;
 import com.sun.j2ee.blueprints.address.ejb.Address;
 
+// This is the Contact information test comment - Crawford
 
 public class ContactInfo {
   public static final String DTD_PUBLIC_ID = "-//Sun Microsystems, Inc. - J2EE Blueprints Group//DTD ContactInfo 1.1//EN";
