@@ -68,7 +68,7 @@ import com.sun.j2ee.blueprints.servicelocator.ServiceLocatorException;
 import com.sun.j2ee.blueprints.petstore.util.JNDINames;
 
 /**
- * Session Bean implementation for ShoppingClientFacadeLocal EJB.
+ * Session Bean implementation shoppingClientFacadeLocal EJB.
  *
  * Provide a facade to all of the ejbs related to a shopping client
  */
