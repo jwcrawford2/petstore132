@@ -54,8 +54,8 @@ public class CreditCard {
   public static final String DTD_PUBLIC_ID = "-//Sun Microsystems, Inc. - J2EE Blueprints Group//DTD CreditCard 1.1//EN";
   public static final String DTD_SYSTEM_ID = "/com/sun/j2ee/blueprints/creditcard/rsrc/schemas/CreditCard.dtd";
   public static final String XML_CREDITCARD = "CreditCard";
-  public static final String XML_CARD_NUMBER = "CardNumber";
-  public static final String XML_EXPIRYDATE = "ExpiryDate";
+  public static final String XML_CARD_NUMBER = "Card-Number";
+  public static final String XML_EXPIRYDATE = "Expiry-Date";
   public static final String XML_CARD_TYPE = "CardType";
   private String cardNumber;
   private String expiryDate;
