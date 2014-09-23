@@ -34,7 +34,7 @@
  * for use in the design, construction, operation or maintenance of
  * any nuclear facility.
  */
-//   ** Make changes to Address Fields plural
+//   ** Make changes to Address Fields English
 // 
 package com.sun.j2ee.blueprints.address.ejb;
 
@@ -56,8 +56,8 @@ public class Address {
   public static final String DTD_SYSTEM_ID = "/com/sun/j2ee/blueprints/address/rsrc/schemas/Address.dtd";
   public static final String XML_ADDRESS = "Address";
   public static final String XML_STREET_NAME = "StreetName";
-  public static final String XML_CITY = "Cities";
-  public static final String XML_STATE = "States";
+  public static final String XML_CITY = "City";
+  public static final String XML_STATE = "State";
   public static final String XML_COUNTRY = "Country";
   public static final String XML_ZIPCODE = "ZipCode";
   private String streetName1;
