@@ -59,7 +59,7 @@ public class Address {
   public static final String XML_CITY = "City";
   public static final String XML_STATE = "State";
   public static final String XML_COUNTRY = "Country";
-  public static final String XML_ZIPCODE = "Zip_Code";
+  public static final String XML_ZIPCODE = "ZipCode";
   private String streetName1;
   private String streetName2;
   private String city;
