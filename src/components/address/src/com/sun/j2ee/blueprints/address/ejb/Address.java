@@ -50,16 +50,16 @@ import org.w3c.dom.*;
 import com.sun.j2ee.blueprints.xmldocuments.XMLDocumentUtils;
 import com.sun.j2ee.blueprints.xmldocuments.XMLDocumentException;
 
-
+// ** making change per english rules **
 public class Address {
   public static final String DTD_PUBLIC_ID = "-//Sun Microsystems, Inc. - J2EE Blueprints Group//DTD Address 1.1//EN";
   public static final String DTD_SYSTEM_ID = "/com/sun/j2ee/blueprints/address/rsrc/schemas/Address.dtd";
   public static final String XML_ADDRESS = "Address";
   public static final String XML_STREET_NAME = "StreetName";
-  public static final String XML_CITY = "City";
+  public static final String XML_CITY = "Town";
   public static final String XML_STATE = "State";
   public static final String XML_COUNTRY = "Country";
-  public static final String XML_ZIPCODE = "ZipCode";
+  public static final String XML_ZIPCODE = "Zip-Code";
   private String streetName1;
   private String streetName2;
   private String city;
