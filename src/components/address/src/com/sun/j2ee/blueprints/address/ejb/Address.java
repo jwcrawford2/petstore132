@@ -34,7 +34,8 @@
  * for use in the design, construction, operation or maintenance of
  * any nuclear facility.
  */
-
+//   ** Make changes to Street
+// 
 package com.sun.j2ee.blueprints.address.ejb;
 
 
@@ -54,11 +55,11 @@ public class Address {
   public static final String DTD_PUBLIC_ID = "-//Sun Microsystems, Inc. - J2EE Blueprints Group//DTD Address 1.1//EN";
   public static final String DTD_SYSTEM_ID = "/com/sun/j2ee/blueprints/address/rsrc/schemas/Address.dtd";
   public static final String XML_ADDRESS = "Address";
-  public static final String XML_STREET_NAME = "StreetName";
+  public static final String XML_STREET_NAME = "Street_Name";
   public static final String XML_CITY = "City";
   public static final String XML_STATE = "State";
   public static final String XML_COUNTRY = "Country";
-  public static final String XML_ZIPCODE = "ZipCode";
+  public static final String XML_ZIPCODE = "Zip_Code";
   private String streetName1;
   private String streetName2;
   private String city;
