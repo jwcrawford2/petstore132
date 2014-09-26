@@ -56,7 +56,7 @@ public class Address {
   public static final String DTD_SYSTEM_ID = "/com/sun/j2ee/blueprints/address/rsrc/schemas/Address.dtd";
   public static final String XML_ADDRESS = "Address";
   public static final String XML_STREET_NAME = "StreetName";
-  public static final String XML_CITY = "City";
+  public static final String XML_CITY = "Shire";
   public static final String XML_STATE = "State";
   public static final String XML_COUNTRY = "Country";
   public static final String XML_ZIPCODE = "Zip-Code";
